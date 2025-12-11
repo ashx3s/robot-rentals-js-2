@@ -1,9 +1,11 @@
 # README
 
+This repo demonstrates some javascript code optimizations for the Lab 6 assignment.
+
 ## Code walkthrough tasks
 - [x] Update vars
 - [x] FIX innerhtml vulnerability
-- [ ] Add user error handling
+- [x] Add user error handling
 - [x] Improve calculation logic
 
 ## Encountered Bug
